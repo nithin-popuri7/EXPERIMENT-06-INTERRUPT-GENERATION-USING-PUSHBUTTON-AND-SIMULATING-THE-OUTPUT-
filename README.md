@@ -86,7 +86,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 
-## CIRCUIT DIAGRAM 
+## CIRCUIT DIAGRAM:
+![1pmc](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/afcda348-0c86-47a2-bf90-00c3389fe139)
+
  
 
 ## STM 32 CUBE PROGRAM :
@@ -321,17 +323,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus:
-![1](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/cd6e758e-540b-4dac-a32b-0d7f10328c4f)
+![1pmc](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/30b64cb9-d75f-4e59-8e7b-de72a99b5e2d)
 
-![2](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/38f71c8d-e271-49ae-ad95-e38c3bd111b3)
+![2pmc](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/677da567-c6a7-4576-bcf7-21e0aea8ae3a)
 
 
- 
- 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Screenshot 2023-05-22 135527](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/4757580a-ead9-46e9-a271-c7652cbf4d66)
+ ![3pmc](https://github.com/nithin-popuri7/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154780/46221f84-c76f-4e74-9ae6-d1b7a2f735c5)
 
- 
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
